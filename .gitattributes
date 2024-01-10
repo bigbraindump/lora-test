@@ -1,2 +1,0 @@
-test_a0.safetensors filter=lfs diff=lfs merge=lfs -text
-test_a0_2.safetensors filter=lfs diff=lfs merge=lfs -text
